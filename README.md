@@ -46,3 +46,9 @@ We recommend you to install [Anaconda](https://www.anaconda.com/) as your basic 
 
 
 You can choose any notebook (e.g., ```baseline1.ipynb```) for training or testing corresponding models. If you want to reproduce the experimental results, please load the pre-trained models for the paper for testing in each notebook. Owing to the randomness of the training phase, the experimental results have a little fluctuation, but from the overall perspective, the experimental results are stable.
+
+<br/>
+
+## Citation
+
+Guangyuan Piao, Weipeng Huang, "Learning to Predict the Departure Dynamics of Wikidata Editors", The 20th International Semantic Web Conference, 2021. [[PDF]()] [[BibTex]()]
