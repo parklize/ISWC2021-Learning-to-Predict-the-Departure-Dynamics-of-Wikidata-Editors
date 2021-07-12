@@ -5,8 +5,6 @@ Repository for ISWC2021 paper - "Learning to Predict the Departure Dynamics of W
 
 ### Folder structure
 
-----------------------------------------------
-
 The directory structure of our ISWC code is illustrated as below, where some main files include:
 
 ```python
@@ -27,7 +25,6 @@ requirements.txt  # packages to be installed using pip install -r requirements.t
 
 ### How to use
 
-------------------------------------
 
 We recommend you to install [Anaconda](https://www.anaconda.com/) as your basic Python library, here our code is running on ```Python 3.7.10```. You can use this code according to the following steps.
 
