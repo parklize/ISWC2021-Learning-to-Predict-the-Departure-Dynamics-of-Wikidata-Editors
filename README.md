@@ -1,7 +1,7 @@
 # ISWC2021-Learning-to-Predict-the-Departure-Dynamics-of-Wikidata-Editors
 Repository for ISWC2021 paper - "Learning to Predict the Departure Dynamics of Wikidata Editors". 
 
-
+<br/>
 
 ### Folder structure
 
@@ -22,6 +22,7 @@ data # contains data files (Python pickle files) for training and testing sets r
 requirements.txt  # packages to be installed using pip install -r requirements.txt
 ```
 
+<br/>
 
 
 ### How to use
