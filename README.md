@@ -3,6 +3,12 @@ Repository for ISWC2021 paper - "Learning to Predict the Departure Dynamics of W
 
 <br/>
 
+## Abstract
+
+Wikidata as one of the largest open collaborative knowledgebases has drawn much attention from researchers and practitioners sinceits launch in 2012. As it is collaboratively developed and maintained bya community of a great number of volunteer editors, understanding andpredicting the departure dynamics of those editors are crucial but havenot been studied extensively in previous works. In this paper, we inves-tigate the synergistic effect of two different types of features: statisticaland pattern-based ones with DeepFM as our classification model whichhas not been explored in a similar context and problem for predictingwhether a Wikidata editor willstayorleavethe platform. Our exper-imental results show that using the two sets of features with DeepFMprovides the best performance regardingAUROC(0.9561) andF1score(0.8843), and achieves substantial improvement compared to using eitherof the sets of features and over a wide range of baselines.
+
+<br/>
+
 ## Folder structure
 
 The directory structure of our ISWC code is illustrated as below, where some main files include:
