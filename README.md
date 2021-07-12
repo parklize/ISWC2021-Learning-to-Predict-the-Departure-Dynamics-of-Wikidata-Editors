@@ -51,4 +51,4 @@ You can choose any notebook (e.g., ```baseline1.ipynb```) for training or testin
 
 ## Citation
 
-Guangyuan Piao, Weipeng Huang, "Learning to Predict the Departure Dynamics of Wikidata Editors", The 20th International Semantic Web Conference, 2021. [[PDF]()] [[BibTex]()]
+Guangyuan Piao, Weipeng Huang, "Learning to Predict the Departure Dynamics of Wikidata Editors", The 20th International Semantic Web Conference, 2021. [[PDF](https://parklize.github.io/publications/ISWC2021.pdf)] [[BibTex](https://parklize.github.io/bib/ISWC2021.bib)]
