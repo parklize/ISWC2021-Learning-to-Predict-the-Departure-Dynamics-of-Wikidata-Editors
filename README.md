@@ -52,7 +52,7 @@ You can choose any notebook (e.g., ```baseline1.ipynb```) for training or testin
 ## Processed edit history
 
 A processed edit history that is used to extract features for the experiments are available [here](https://drive.google.com/file/d/1BDvSKp2j8ZH4vBdSYgYjQEqUJMOAP4Ug/view?usp=sharing) (8.3GB zip file) where the unzipped csv file (67GB) contains edit history in the format of:
-Entity  Time  Username  Comment
+```Entity  Time  Editor-username  Comment```
 
 <br/>
 
